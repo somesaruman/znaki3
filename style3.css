@@ -1,0 +1,87 @@
+h1 {
+  text-align: center;
+}
+.b {
+  text-align: center;
+}
+.dot {
+  display: flex;
+  left: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  height: 250px;
+  width: 250px;
+  background-color: #ff0000;
+  border-radius: 50%;
+}
+.dot2 {
+  position: relative;
+  display: flex;
+  left: 0%;
+  bottom: 225px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.c {
+  position: relative;
+  display: flex;
+  left: 0%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 300px;
+  background-color: #ff0000;
+  border-radius: 0%;
+  z-index: 12;
+}
+.d {
+  position: relative;
+  display: flex;
+  top: -200px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 100px;
+  background-color: #ff0000;
+  border-radius: 0%;
+  z-index: 11;
+}
+.e {
+  position: relative;
+  display: flex;
+  top: -600px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 480px;
+  width: 480px;
+  z-index: 5;
+  background-color: #fff;
+  border-radius: 1%;
+  opacity: 100%;
+}
+.f {
+  position: relative;
+  display: flex;
+  top: -1150px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  height: 800px;
+  width: 600px;
+  background-color: #0000ff;
+  border-radius: 10%;
+  z-index: 2;
+  opacity: 100%;
+}
+.znak {
+  position: relative;
+  top: 100px;
+}
